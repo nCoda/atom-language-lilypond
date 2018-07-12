@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-lilypond",
+        "command": "language-lilypond:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-lilypond",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-lilypond:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
