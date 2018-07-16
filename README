@@ -1,7 +1,6 @@
 language-lilypond
 =================
 
-Language support for LilyPond. Written from scratch.
+Language support for LilyPond.
 
-Currently just a stub package.
-
+Based on the "AtLilyPond" package: https://github.com/yrammos/AtLilyPond

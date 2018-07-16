@@ -5,9 +5,11 @@
   "description": "LilyPond support for Atom.",
   "keywords": [],
   "repository": "https://github.com/nCoda/atom-language-lilypond.git",
-  "license": "LGPLv3",
+  "license": "CC-BY-NC 3.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "language-lisp": "*"
+  }
 }
