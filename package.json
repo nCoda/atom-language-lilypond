@@ -1,7 +1,7 @@
 {
   "name": "language-lilypond",
   "main": "./lib/language-lilypond",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "LilyPond support for Atom.",
   "keywords": [],
   "repository": "https://github.com/nCoda/atom-language-lilypond.git",
