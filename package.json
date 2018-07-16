@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "description": "LilyPond support for Atom.",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "language-lilypond:toggle"
-  },
   "repository": "https://github.com/nCoda/atom-language-lilypond.git",
   "license": "LGPLv3",
   "engines": {
